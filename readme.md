@@ -4,7 +4,7 @@ This is a PHP extension which is a wrapper for the official implementation of th
 
 Installation
 =============
-1. git clone https://github.com/strawbrary/php-sha3
+1. git clone https://github.com/beyonderyue/php-sha3
 1. cd php-sha3
 1. phpize
 1. ./configure --enable-sha3
